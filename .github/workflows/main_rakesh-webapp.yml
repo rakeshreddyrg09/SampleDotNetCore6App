@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'rakesh-webapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_458F4869AF0F45C88C0A360A7615911A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D435E7A61AD64C57B3F706C02D012C0B }}
           package: .
